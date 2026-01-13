@@ -5,5 +5,12 @@
       "maxonline": 1000,
       "name": "SERVIDOR 1",
       "online": 0
+    },
+    {
+      "color": "0000FF",
+      "dopname": "(ROLEPLAY)",
+      "maxonline": 1000,
+      "name": "SERVIDOR 2",
+      "online": 0
     }
 ]
