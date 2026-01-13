@@ -2,14 +2,14 @@
     {
       "color": "00FF00",
       "dopname": "(NOVO)",
-      "maxonline": 1000,
+      "maxonline": 234,
       "name": "SERVIDOR 1",
       "online": 0
     },
     {
       "color": "0000FF",
       "dopname": "(ROLEPLAY)",
-      "maxonline": 1000,
+      "maxonline": 561,
       "name": "SERVIDOR 2",
       "online": 0
     }
